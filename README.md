@@ -1,6 +1,14 @@
 # video_call
 
-A new Flutter project.
+Video call App
+
+Package:
+https://pub.dev/packages/dyte_client
+https://pub.dev/packages/http
+https://pub.dev/packages/fluttertoast
+
+Documentation on how to use Dyte
+https://docs.dyte.io/docs/home/introduction
 
 ## Getting Started
 
